@@ -8,17 +8,21 @@ Graduated in Business Administration and Post-Graduation in Full Stack Web Devel
 
 ## Conecte-se comigo - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcela-machado1/)  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/marcela_ax/) <br>
-by email - marcelamachado08@gmail.com
+ <a href="983726893729734676" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/983726893729734676" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "mailto:marcelamachado08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Habilidades | Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcela-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Marcela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Marcela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcela-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcela-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Marcela-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Marcela-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Marcela-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
 ## Most Used Languages Compact
