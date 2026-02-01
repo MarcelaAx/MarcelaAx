@@ -1,9 +1,9 @@
 # Marcela Machado 
-👋 Hello! <br> Sou Marcela, entusiasmada em tecnologia e sua imensidão de possibilidades a serem descobertas. <br>
+👋 Hello! <br> Sou Marcela, amante da tecnologia e sua imensidão de possibilidades a serem descobertas. <br>
 Graduada em Administração e Pós-Graduação em Desenvolvimento Web Full Stack, busco na tecnologia uma oportunidade de mudar a minha vida pessoal e profissional. <br><br>
 I'm Marcela, enthusiastic about technology and its immensity of possibilities to be discovered. <br>
 Graduated in Business Administration and Post-Graduation in Full Stack Web Development, I look for an opportunity in technology to change my personal and professional life.
-- 🌱 I’m currently learning on online teaching platforms, about web development, more precisely in HTML, CSS, JavaScript, React, Java.
+- 🌱 I’m currently learning on online teaching platforms, about web development, more precisely in HTML, CSS, SQL, Python, JavaScript.
 - <strong>Give me the opportunity to start in the area and let's learn more every day together!</strong> 
 
 ## Conecte-se comigo - 📫 How to reach me:
